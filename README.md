@@ -17,4 +17,4 @@
 
 <hr><br>
 
-<img src="img/reconhecimentoVoz.png" alt="tela inicial do jogo número secreto">
+<img src="images/aluramidi.png" alt="tela inicial do Alura Midi">
